@@ -1,0 +1,16 @@
+# Ignorar archivos de Python
+__pycache__/
+*.pyc
+
+# Ignorar la base de datos de SQLite
+*.sqlite3
+db.sqlite3
+
+# Archivos de entorno
+.env
+
+# Configuración de VSCode
+.vscode/
+
+# Archivos de sistema MacOS
+.DS_Store
